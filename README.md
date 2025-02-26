@@ -25,13 +25,14 @@ Sršen asks you to analyze smart device usage data in order to gain insight into
 What are some trends in smart device usage?
 How could these trends apply to Bellabeat customers?
 How could these trends help influence Bellabeat marketing strategy?
-Deliverables
-A clear summary of the business task
-A description of all data sources used
-Documentation of any cleaning or manipulation of data
-A summary of your analysis
-Supporting visualizations and key findings
-Your top high-level content recommendations based on your analysis
+
+Deliverables:
+1. A clear summary of the business task
+2. A description of all data sources used
+3. Documentation of any cleaning or manipulation of data
+4. A summary of your analysis
+5. Supporting visualizations and key findings
+6. Your top high-level content recommendations based on your analysis
 
 PREPARE
 
@@ -45,6 +46,20 @@ Data limitations
 
 The data has some limitations which could Undermine the results of the analysis Such limitations to take into consideration are:
 
-Missing demographics
-Small simple size
-Short time period of Data collection
+1. Missing demographics
+2. Small simple size
+3. Short time period of Data collection
+
+RECOMMENDATIONS
+
+Based on users life styles, we can try incorporating following features to help build Bellabeat's marketing strategy:
+
+1. Based on hourly step data, the average maximum steps taken in 30 minutes have been analyzed. On average, users take around 7,200 to 8,000 steps per day. This indicates that they may need an additional 30 to 60 minutes of activity per day to reach the recommended 10,000 steps. To help users improve their daily activity gradually, we can incorporate a feature that allows them to set personalized step goals and receive reminders to stay on track.
+
+2. Calories calculator: we can add a feature for users to record their daily calorie consumption and a calories calculator so that they know if net calories is 0 and if they have to burn more calories than they consume when they want to lose weight.
+
+3. Weekly and Monthly Achievement Reports: To keep the users motivated, the Bellabeat app could provide customized weekly and monthly reports regarding the total number of steps, burned calories, sleeping habits, weight loss, and total time spent on the different activity levels. The app could send congratulatory messages to those who keep up with good habits, as well as motivational tips for improvement depending on the user's overall performance.
+
+4. A reward-based point system where users earn points for hitting healthy activity and nutrition goals. These points can be redeemed for vouchers, discounts, or gift cards, encouraging consistent participation. Users can earn points by achieving key health milestones, such as meeting step goals, maintaining a balanced calorie intake, tracking workouts, and ensuring adequate sleep.
+
+5. Introducing a meal plan suggestion feature would provide users with a holistic approach to health and wellness. This feature would offer users tailored meal plans, helping them maintain a balanced diet that aligns with their fitness objectives. By leveraging user data, such as daily step count, intensity levels, and calories burned, the app could generate customized meal suggestions that promote healthier eating habits.
